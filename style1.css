@@ -1,0 +1,32 @@
+h2{
+    color: blue;
+    font-family: verdana;
+}
+.menu{
+    text-align: center;
+}
+p{
+    color: rgb(37, 132, 186);
+    font-size: 18px;
+    font-family: verdana;
+}
+.btn{
+    background-color: rgb(42, 46, 165);
+    border: none;
+    padding: 10px;
+    color:#ffffff;
+}
+.btn:hover
+{
+    background-color: #a9a411;
+}
+.btn1{
+    background-color: brown;
+    border: none;
+    padding: 10px;
+    color:#ffffff;
+}
+.btn1:hover
+{
+    background-color: #93e97c;
+}

@@ -1,0 +1,30 @@
+.one {
+  background-color: rgb(48, 138, 12);
+  width: 200px;
+  height: 500px;
+  padding: 3rem;
+}
+.two {
+  background-color: rgb(48, 138, 12);
+  width: 200px;
+  height: 500px;
+  padding: 3rem;
+}
+.three {
+  background-color: rgb(48, 138, 12);
+  width: 200px;
+  height: 500px;
+  padding: 3rem;
+}
+.four {
+  background-color: rgb(48, 138, 12);
+  width: 200px;
+  height: 500px;
+  padding: 3rem;
+}
+.cards {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding-left: 2rem;
+}
